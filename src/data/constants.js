@@ -79,7 +79,7 @@ export const skills = [
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACvUlEQVR4AWKgBMSs9wywn6+vwDAQIGqpt2DCpoDLnkvMlgN4LQdgu9UojK79J+fZtm3btjV+tsbPGLWD2rY9qAe1bWNQ270n+yvSnusyp19mjbGSFXEcCxzDPuz+xIXRGRoeQrgjRLlPnm374EcnTODpNlefYvEZfY1whyQQxBEdX2x/13MnROCi02+oGcweEyCEYQRCDp3c6+kWt91QVIFXOj39hCL7RRIuITkSSGAWzsnlTu3Ih0TFErBcTG1JFA45ACglWPzwc6/c921RBF7t+PArwexBCQpXADAMUIpEMPv7tn8vPCNzAYXwjeQ4QnhBAoRECmAhuvjSK6/4LFOB+zvddIHgDQGSkASFDEBFzL7OVODM5OyXg4VIZc7YC1egskCw+I5Hmt1/Z2YCZvaEJISokCEFUnQQ57TASxkKcIdwXFAxQ6QA8hRSEECGAvLkRgFQtj9IjgmoCODymziCxRzBDM53QUDIDmRQwE0ASFRakF2R3WMYLAZRVQanzFQAsxBnJuCJuySqyhDLQKSgFE/JLIFgJXBZVRkQyEXFJe7rskuAZgmn6gxUt0WZCSRoJIKqMpSbyuA+MTuBkp29hQBwgVT5MXSBkyKBEg3MTGDMl3Nnuvu48hmEgBJ3JLAyyH3d2vXTB2X6NSxJVKNyBkiUB1GORN5w9v/szlRg9OdT++WVDC2fQeAU5oK8+5qNWzfUK8ovWcnunV8mnt9YLoOXf+xF+GHG78s3cIQzjnJPtr39pTicNiAXR+EUTsI2BjYlWwBIknyTEb9O+55i7+m293/5XMeH/ONOL+irZu/omfr3ac/8pjscAzdI6QXCFzjlZy0O+j5lWcX/lPlBFwpXhXIy0BssXFjXuWHdxEf19fVMDAMBli1u8tuxbeYOhoECq1Z1mB3Yv3jDgDlg+fJ+hdMnNq6hxAwAv0PvTDLt6WoAAAAASUVORK5CYII=",
       },
       {
         name: "Firebase",
