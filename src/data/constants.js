@@ -153,7 +153,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/surya9520/Mindpixel2.git",
-    webapp: "https://mindpixel-surya-joshi.netlify.app/",
+    webapp: "https://mindpixel01-frontend.vercel.app/",
   },
   {    id: 9,
     title: "e-bazar",
