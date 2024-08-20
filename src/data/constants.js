@@ -14,7 +14,7 @@ export const Bio = {
   resume:
    "https://drive.google.com/file/d/1hrfove8RM0LmhIybvJLd_oESZ7TDVsG-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/suryajoshi617/",
-  twitter: "https://twitter.com/suryajoshi617",
+  twitter: "https://twitter.com/suryajoshi20192",
  
 };
 
